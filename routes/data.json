@@ -1,0 +1,317 @@
+[
+  {
+    "title": "Rustic Retreat Charm Cottage",
+    "description": "This villa is a stunning masterpiece of luxury and art. Adorned with two helipads for convenient aerial access, the expansive interiors provide ample space for relaxation and entertainment. The villa offers panoramic sea views that can be enjoyed from multiple vantage points, while the walls are graced with astonishing, bold artworks that add a touch of sophistication and elegance to the entire property.",
+    "price": 4254,
+    "address": "Street 5",
+    "city": "San Diego",
+    "country": "US",
+    "image": "https://example.com/image1.jpg",
+    "userEmail": "userOne@gmail.com",
+    "createdAt": {
+      "$date": "2024-02-14T10:43:03.217Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-14T10:43:03.217Z"
+    },
+    "facilities": {
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "parkings": 1
+    }
+  },
+  {
+    "title": "Modern Urban Flat",
+    "description": "A contemporary apartment located in the heart of the city. With sleek design and modern amenities, this flat provides the ultimate urban living experience. Floor-to-ceiling windows offer stunning city views.",
+    "price": 3200,
+    "address": "Street 22",
+    "city": "New York",
+    "country": "US",
+    "image": "https://example.com/image2.jpg",
+    "userEmail": "userTwo@gmail.com",
+    "createdAt": {
+      "$date": "2024-02-15T10:43:03.217Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-15T10:43:03.217Z"
+    },
+    "facilities": {
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "parkings": 0
+    }
+  },
+  {
+    "title": "Beachfront Paradise Villa",
+    "description": "This stunning beachfront villa offers the ultimate in luxury living. With private beach access, a large swimming pool, and spacious outdoor areas, it's perfect for relaxation and entertaining.",
+    "price": 8500,
+    "address": "Ocean Drive",
+    "city": "Miami",
+    "country": "US",
+    "image": "https://example.com/image3.jpg",
+    "userEmail": "userThree@gmail.com",
+    "createdAt": {
+      "$date": "2024-02-16T10:43:03.217Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-16T10:43:03.217Z"
+    },
+    "facilities": {
+      "bedrooms": 4,
+      "bathrooms": 4,
+      "parkings": 2
+    }
+  },
+  {
+    "title": "Mountain View Cabin",
+    "description": "Nestled in the mountains, this cozy cabin offers breathtaking views and a peaceful retreat from the hustle and bustle of city life. Perfect for nature lovers and outdoor enthusiasts.",
+    "price": 4500,
+    "address": "Mountain Road",
+    "city": "Aspen",
+    "country": "US",
+    "image": "https://example.com/image4.jpg",
+    "userEmail": "userFour@gmail.com",
+    "createdAt": {
+      "$date": "2024-02-17T10:43:03.217Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-17T10:43:03.217Z"
+    },
+    "facilities": {
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "parkings": 1
+    }
+  },
+  {
+    "title": "Luxury Downtown Loft",
+    "description": "Experience the height of luxury in this modern downtown loft. With high ceilings, an open floor plan, and top-of-the-line finishes, this loft is perfect for urban living.",
+    "price": 6000,
+    "address": "City Center",
+    "city": "Chicago",
+    "country": "US",
+    "image": "https://example.com/image5.jpg",
+    "userEmail": "userFive@gmail.com",
+    "createdAt": {
+      "$date": "2024-02-18T10:43:03.217Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-18T10:43:03.217Z"
+    },
+    "facilities": {
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "parkings": 1
+    }
+  },
+  {
+    "title": "Countryside Estate",
+    "description": "This grand estate offers a serene countryside living experience. With vast gardens, a private lake, and luxurious interiors, it's an ideal home for those seeking tranquility and elegance.",
+    "price": 12000,
+    "address": "Countryside Lane",
+    "city": "Nashville",
+    "country": "US",
+    "image": "https://example.com/image6.jpg",
+    "userEmail": "userSix@gmail.com",
+    "createdAt": {
+      "$date": "2024-02-19T10:43:03.217Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-19T10:43:03.217Z"
+    },
+    "facilities": {
+      "bedrooms": 5,
+      "bathrooms": 4,
+      "parkings": 3
+    }
+  },
+  {
+    "title": "Historic City Mansion",
+    "description": "Step back in time with this beautifully restored historic mansion. Featuring original architectural details, this home offers a unique blend of old-world charm and modern amenities.",
+    "price": 15000,
+    "address": "Heritage Street",
+    "city": "Boston",
+    "country": "US",
+    "image": "https://example.com/image7.jpg",
+    "userEmail": "userSeven@gmail.com",
+    "createdAt": {
+      "$date": "2024-02-20T10:43:03.217Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-20T10:43:03.217Z"
+    },
+    "facilities": {
+      "bedrooms": 6,
+      "bathrooms": 5,
+      "parkings": 2
+    }
+  },
+  {
+    "title": "Eco-Friendly Smart Home",
+    "description": "This state-of-the-art eco-friendly home features the latest in smart home technology. Solar panels, energy-efficient appliances, and a smart home system make it both luxurious and sustainable.",
+    "price": 9500,
+    "address": "Green Way",
+    "city": "Portland",
+    "country": "US",
+    "image": "https://example.com/image8.jpg",
+    "userEmail": "userEight@gmail.com",
+    "createdAt": {
+      "$date": "2024-02-21T10:43:03.217Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-21T10:43:03.217Z"
+    },
+    "facilities": {
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "parkings": 2
+    }
+  },
+  {
+    "title": "Charming Suburban Home",
+    "description": "A charming home in a quiet suburban neighborhood. Perfect for families, this home offers spacious living areas, a large backyard, and close proximity to schools and parks.",
+    "price": 3500,
+    "address": "Maple Street",
+    "city": "Dallas",
+    "country": "US",
+    "image": "https://example.com/image9.jpg",
+    "userEmail": "userNine@gmail.com",
+    "createdAt": {
+      "$date": "2024-02-22T10:43:03.217Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-22T10:43:03.217Z"
+    },
+    "facilities": {
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "parkings": 1
+    }
+  },
+  {
+    "title": "Riverside Cottage",
+    "description": "A picturesque cottage located by the river. Ideal for those who love nature and tranquility, this home offers beautiful river views, cozy interiors, and a private dock.",
+    "price": 4800,
+    "address": "Riverside Drive",
+    "city": "Savannah",
+    "country": "US",
+    "image": "https://example.com/image10.jpg",
+    "userEmail": "userTen@gmail.com",
+    "createdAt": {
+      "$date": "2024-02-23T10:43:03.217Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-23T10:43:03.217Z"
+    },
+    "facilities": {
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "parkings": 1
+    }
+  },
+  {
+    "title": "City Penthouse Suite",
+    "description": "Experience luxury living in this penthouse suite. Located in the heart of the city, it offers breathtaking skyline views, modern interiors, and exclusive amenities.",
+    "price": 10000,
+    "address": "Skyline Avenue",
+    "city": "Los Angeles",
+    "country": "US",
+    "image": "https://example.com/image11.jpg",
+    "userEmail": "userEleven@gmail.com",
+    "createdAt": {
+      "$date": "2024-02-24T10:43:03.217Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-24T10:43:03.217Z"
+    },
+    "facilities": {
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "parkings": 2
+    }
+  },
+  {
+    "title": "Cozy Lake House",
+    "description": "A cozy house by the lake, perfect for a relaxing getaway. Enjoy fishing, boating, and stunning lake views from this charming property.",
+    "price": 5400,
+    "address": "Lakeview Road",
+    "city": "Orlando",
+    "country": "US",
+    "image": "https://example.com/image12.jpg",
+    "userEmail": "userTwelve@gmail.com",
+    "createdAt": {
+      "$date": "2024-02-25T10:43:03.217Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-25T10:43:03.217Z"
+    },
+    "facilities": {
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "parkings": 1
+    }
+  },
+  {
+    "title": "Elegant Manor",
+    "description": "An elegant manor with exquisite interiors and extensive grounds. Ideal for hosting events and entertaining guests, this property offers luxury and privacy.",
+    "price": 20000,
+    "address": "Manor Way",
+    "city": "Philadelphia",
+    "country": "US",
+    "image": "https://example.com/image13.jpg",
+    "userEmail": "userThirteen@gmail.com",
+    "createdAt": {
+      "$date": "2024-02-26T10:43:03.217Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-26T10:43:03.217Z"
+    },
+    "facilities": {
+      "bedrooms": 7,
+      "bathrooms": 6,
+      "parkings": 3
+    }
+  },
+  {
+    "title": "Sunny Bungalow",
+    "description": "A bright and cheerful bungalow located in a sunny neighborhood. Perfect for small families or couples, this home features a cozy layout and a beautiful garden.",
+    "price": 2900,
+    "address": "Sunset Boulevard",
+    "city": "Phoenix",
+    "country": "US",
+    "image": "https://example.com/image14.jpg",
+    "userEmail": "userFourteen@gmail.com",
+    "createdAt": {
+      "$date": "2024-02-27T10:43:03.217Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-27T10:43:03.217Z"
+    },
+    "facilities": {
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "parkings": 1
+    }
+  },
+  {
+    "title": "Chic Loft",
+    "description": "A stylish loft in a trendy part of town. Featuring an open floor plan, high ceilings, and modern finishes, this loft is perfect for young professionals.",
+    "price": 4700,
+    "address": "Loft Lane",
+    "city": "Austin",
+    "country": "US",
+    "image": "https://example.com/image15.jpg",
+    "userEmail": "userFifteen@gmail.com",
+    "createdAt": {
+      "$date": "2024-02-28T10:43:03.217Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-28T10:43:03.217Z"
+    },
+    "facilities": {
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "parkings": 1
+    }
+  }
+]
